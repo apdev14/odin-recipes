@@ -1,0 +1,32 @@
+body {
+    background-color: orangered;
+    text-align: center;
+}
+
+.headers {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.list {
+    background-color: yellow;
+    display: inline-block;
+    padding: 12px;
+    list-style-type: none;
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    line-height: 40px;
+    padding-top: 50px;
+    border-radius: 25px;
+}
+
+li {
+    padding: 8px;
+}
+
+li a {
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
